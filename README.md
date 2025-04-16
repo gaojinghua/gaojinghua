@@ -4,5 +4,5 @@
 - 🎬 Built AI products used by 10M+ users worldwide (video generation, avatars, agents)
 - 🔧 Core Reviewer of OpenStack Cyborg; contributed to cyborg project architecture design
 - 🧠 Strong background in Transformer models, generative AI, and edge deployment
-- 🌐 Featured Speaker at 5 international conferences; first author of CCF-B paper (IJCNN 2021)
+- 🌐 Featured Speaker at 5 international conferences
 - 🛠️ Builder of scalable multimodal LLM+Agent frameworks and smart glasses AI apps
